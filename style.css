@@ -1,0 +1,29 @@
+html {
+    background-color: cornsilk;
+    font-family: "Noto Serif", serif;
+    color: chocolate
+}
+
+.site-id {
+    font-family: "Noto Sans Display", sans-serif;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 0.8;
+    color: skyblue;
+}
+
+.page-name {
+    font-family: "Noto Sans Display", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.section-heading {
+    font-family: "Noto Sans Display", sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.course-contact {
+    text-align: right;
+}
